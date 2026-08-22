@@ -1,0 +1,13 @@
+# Python bytecode and local environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Local credentials and developer configuration
+.env
+credentials.json
+.config/
+*.pem
+*.key

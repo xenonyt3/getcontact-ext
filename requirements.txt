@@ -1,0 +1,5 @@
+# HTTP client used by engine.py
+requests>=2.31.0,<3.0.0
+
+# AES encryption/decryption used by the request protocol
+cryptography>=41.0.0,<47.0.0
