@@ -2,6 +2,7 @@
 
 > Core research oleh @mfajarb. Versi ini di-*re-engineer* dan diperbaiki oleh
 > @falihputraaaa / `@prnce______`.
+>fork ini fix verifykit initialization issues (403) dan menambahkan UI untuk memudahkan.
 
 GetContact Desktop adalah project Python dengan desktop interface yang memakai engine lokal untuk berkomunikasi dengan API GetContact, tanpa browser.
 
