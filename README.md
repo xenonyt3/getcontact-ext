@@ -4,6 +4,9 @@
 > @falihputraaaa / `@prnce______`.
 >fork ini fix verifykit initialization issues (403) dan menambahkan UI untuk memudahkan.
 
+![alt text](image-1.png)
+(error: vfk init failed: HTTP 403 telah di-fix)
+
 GetContact Desktop adalah project Python dengan desktop interface yang memakai engine lokal untuk berkomunikasi dengan API GetContact, tanpa browser.
 
 Project ini dibuat sebagai **research dan learning project** untuk memahami bagaimana aplikasi mobile berkomunikasi dengan backend service serta bagaimana proses autentikasi dan request API bekerja.
